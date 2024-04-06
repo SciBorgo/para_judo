@@ -13,6 +13,7 @@
 With the R packages listed in `0_libraries.R`, the results and figures presented in the paper can be replicated using the data files and code stored in this repository.
 
 ## DOI
+https://doi.org/10.5281/zenodo.10934388
 
 ## Analytics
 
