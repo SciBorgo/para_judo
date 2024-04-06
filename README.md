@@ -13,7 +13,8 @@
 With the R packages listed in `0_libraries.R`, the results and figures presented in the paper can be replicated using the data files and code stored in this repository.
 
 ## DOI
-https://doi.org/10.5281/zenodo.10934388
+[![DOI](https://zenodo.org/badge/625715931.svg)](https://zenodo.org/doi/10.5281/zenodo.10934388)
 
 ## Analytics
+[![Github All Releases](https://img.shields.io/github/downloads/SciBorgo/para_judo/total.svg)]()
 
